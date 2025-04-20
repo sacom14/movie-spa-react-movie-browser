@@ -11,8 +11,7 @@
 ## Funcionalidades
 
 - **Búsqueda de películas**: Encuentra información detallada sobre tus películas favoritas.
-- **Exploración por categorías**: Navega por diferentes géneros y categorías de películas.
-- **Detalles de películas**: Consulta sinopsis, reparto, calificaciones y más.
+- **Detalles de películas**: Consulta sinopsis, reparto, calificaciones. relacionados, etc.
 - **Interfaz amigable**: Diseño intuitivo y responsivo para una experiencia de usuario óptima.
 
 ## Tecnologías utilizadas
