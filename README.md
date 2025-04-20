@@ -1,6 +1,8 @@
 # Movie Browser
 
-![Movie Browser Logo](/src/assets/logo.svg)
+<div style="text-align: center;">
+    <img src="/src/assets/logo.svg" alt="Movie Browser Logo" width="200" />
+</div>
 
 ## Descripción
 
