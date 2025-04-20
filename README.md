@@ -21,6 +21,45 @@
 - **Vite**: Herramienta de desarrollo rápida para aplicaciones modernas.
 - **CSS Modules**: Estilización modular y reutilizable.
 
+## Estructura de carpetas
+movie-spa-react/
+├── .env.local
+├── .env.local.example
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package.json
+├── README.md
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+├── vite.config.ts
+├── public/
+│   └── vite.svg
+└── src/
+    ├── App.css
+    ├── App.tsx
+    ├── index.css
+    ├── main.tsx
+    ├── vite-env.d.ts
+    ├── assets/
+    │   ├── logo.png
+    │   ├── logo.svg
+    │   └── react.svg
+    ├── components/
+    │   ├── MovieCard.tsx
+    │   └── SearchBar.tsx
+    ├── interfaces/
+    │   └── movies.ts
+    ├── pages/
+    │   ├── Home.tsx
+    │   └── MovieDetails.tsx
+    ├── routes/
+    │   └── AppRoutes.tsx
+    └── services/
+        ├── movie.ts
+        └── themoviedb.tsx
+
 ## Clonar y ejecutar el proyecto
 
 Sigue estos pasos para clonar y ejecutar la aplicación en tu entorno local:
