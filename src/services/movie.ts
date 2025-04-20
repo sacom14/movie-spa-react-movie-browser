@@ -15,7 +15,6 @@ export const searchMovie = async (query: string): Promise<MoviesResponse['result
     const response = await ThemeMovieDbService.get('/search/movie', {
         params: { query }
     });
-    console.log(response.data.results)
     return response.data.results
 }
 
